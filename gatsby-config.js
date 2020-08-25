@@ -18,7 +18,7 @@ module.exports = {
       options: {
         name: 'Sushma',
         short_name: 'Sushma',
-        start_url: 'sushmagowda.me',
+        start_url: '',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
