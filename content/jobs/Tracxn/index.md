@@ -4,7 +4,7 @@ title: 'Personal Website'
 company: 'Sushma'
 location: ''
 range: '2020'
-url: 'sushmagowda.me'
+url: ''
 ---
 Tech:
     - JS
