@@ -6,7 +6,6 @@ skills:
   - HTML & (S)CSS
   - Python
   - React
-  - Node.js
   - Django
   - WordPress
 ---
